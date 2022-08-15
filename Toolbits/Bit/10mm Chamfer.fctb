@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "10mm Chamfer",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeAngle": "60.00 \u00b0",
+    "CuttingEdgeHeight": "6.35 mm",
+    "Diameter": "12.00 mm",
+    "Flutes": "0",
+    "Length": "30.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "6.35 mm",
+    "TipDiameter": "5.00 mm"
+  },
+  "attribute": {}
+}
